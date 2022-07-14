@@ -11,5 +11,5 @@ dev 5
 aasdasdas
 before rebase 1
 after rebase
-before rebase 2 - fix
+before rebase 2 - 2 fix 2
 
