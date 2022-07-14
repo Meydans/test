@@ -13,3 +13,5 @@ before rebase 1
 after rebase
 before rebase 2 - 2 fix 2
 
+commit before rebase
+commit before rebase addition
