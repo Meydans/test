@@ -12,3 +12,4 @@ aasdasdas
 before rebase 1
 after rebase
 commit before rebase
+commit before rebase addition
