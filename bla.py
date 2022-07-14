@@ -11,3 +11,4 @@ dev 5
 aasdasdas
 before rebase 1
 after rebase
+commit before rebase
