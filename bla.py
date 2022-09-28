@@ -8,10 +8,3 @@ fb4
 dev 4
 fb5
 dev 5
-aasdasdas
-before rebase 1
-after rebase
-before rebase 2 - 2 fix 2
-
-commit before rebase
-commit before rebase addition
